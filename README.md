@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 I'm currently learning Python.<br></p>
+<p align="left">✨ Coding since 2023<br>📚 I'm currently learning DSA using C++.<br></p>
 
 ###
 
