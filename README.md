@@ -76,8 +76,3 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/NamanBhatia-NB/count.svg?"  />
-</div>
-
-###
