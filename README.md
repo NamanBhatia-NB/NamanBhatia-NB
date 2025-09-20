@@ -1,7 +1,7 @@
 <h1 align="left">Hey there! 👋 I'm Naman Bhatia</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Learning+DSA+with+C%2B%2B;Building+Full+Stack+Projects;Exploring+MERN+%26+Next.js;&center=false&color=06B6D4&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;DSA+with+C%2B%2B;Building+Full+Stack+Projects;Exploring+MERN+%26+Next.js;&center=false&color=06B6D4&size=22" />
 </p>
 
 ---
