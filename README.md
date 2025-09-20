@@ -10,7 +10,7 @@
 
 <p align="left">
 ✨ Coding since 2023 <br>
-📚 Currently learning Data Structures & Algorithms with C++ <br>
+📚 Data Structures & Algorithms with C++ <br>
 💻 Building Full Stack apps with MERN, Next.js, Tailwind <br>
 🌱 Love exploring new technologies and solving real-world problems <br>
 </p>
