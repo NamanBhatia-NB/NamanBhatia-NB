@@ -27,7 +27,7 @@
 
 ---
 
-### 🎨 Frontend Development
+### 🚀 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,supabase" />
