@@ -22,19 +22,23 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
 </p>
 
-### 🌐 Web Development
+---
+
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,supabase" />
 </p>
 
-### ⚙ Tools
+---
+
+### 🛠 Tools & Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
 </p>
 
 ---
@@ -69,7 +73,7 @@ AI-powered SaaS platform that converts **long podcasts into viral short clips** 
 
 ### Tech Stack
 
-Next.js • Node.js • FFmpeg • AI APIs • MongoDB • Python
+Next.js • Node.js • FFmpeg • AI APIs • MongoDB • Python • FastAPI
 
 🔗 Project Link: https://podclipper.namanbhatia.live/
 
@@ -90,7 +94,7 @@ A web platform that generates **original music tracks using AI models** based on
 
 ### Tech Stack
 
-Next.js • Python • Node.js • ACE Step Music Generation Model
+Next.js • Python • Node.js • ACE Step Music Generation Model • FastAPI
 
 🔗 Project Link: https://aimusicgen.namanbhatia.live/
 
@@ -105,8 +109,6 @@ Next.js • Python • Node.js • ACE Step Music Generation Model
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamanBhatia-NB&repo=AI_Investment_Manager&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamanBhatia-NB&repo=Subscription_Tracker&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NamanBhatia-NB&repo=Todo_List_Website&theme=tokyonight" />
 
 </p>
 
