@@ -14,6 +14,7 @@
 * ⚡ Building **AI-powered SaaS products**
 * 🌱 Exploring **AI, scalable backend systems, and modern web architectures**
 * 🎯 Focused on solving **real-world problems with technology**
+* 🚀 Currently learning **AI/ML**
 
 ---
 
