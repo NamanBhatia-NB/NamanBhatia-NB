@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer building AI-powered web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Developer;DSA+with+C%2B%2B;AI+Projects+Builder&center=true&color=06B6D4&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+with+C%2B%2B;AI+ML+Enthusiast&center=true&color=06B6D4&size=24">
 </p>
 
 ---
