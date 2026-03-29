@@ -103,7 +103,7 @@ Next.js • Python • Node.js • ACE Step Music Generation Model • FastAPI
 
 ---
 
-# 🚀 Featured Public Projects
+# 🚀 Featured Projects
 
 <p align="center">
 
