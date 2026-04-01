@@ -39,7 +39,7 @@
 ### 🛠 Tools & Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,aws" />
 </p>
 
 ---
