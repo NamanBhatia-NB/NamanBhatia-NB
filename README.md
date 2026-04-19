@@ -76,9 +76,7 @@ AI-powered SaaS platform that converts **long podcasts into viral short clips** 
 
 Next.js • Node.js • FFmpeg • AI APIs • MongoDB • Python • FastAPI
 
-🔗 Project Link: https://podclipper.namanbhatia.live/
-
-🔒 Repository: Private
+🔗 Project Link: https://podclipper.namanbhatia.live
 
 ---
 
@@ -97,9 +95,7 @@ A web platform that generates **original music tracks using AI models** based on
 
 Next.js • Python • Node.js • ACE Step Music Generation Model • FastAPI
 
-🔗 Project Link: https://aimusicgen.namanbhatia.live/
-
-🔒 Repository: Private
+🔗 Project Link: https://aimusicgen.namanbhatia.live
 
 ---
 
