@@ -47,12 +47,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NamanBhatia-NB&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanBhatia-NB&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamanBhatia-NB&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamanBhatia-NB&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanBhatia-NB&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=NamanBhatia-NB&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -80,6 +80,26 @@ Next.js • Node.js • FFmpeg • AI APIs • MongoDB • Python • FastAPI
 
 ---
 
+## 💰 AI Finance Manager (SaaS)
+
+AI-powered investment management platform that helps users analyze **financial data, track portfolios, monitor expenses, and receive intelligent investment insights** for smarter financial decision-making.
+
+### Features
+
+* 📊 AI-powered financial analytics and portfolio tracking
+* 📧 Automated investment insights and finance reports via email
+* 🤖 Smart recommendations based on user portfolio performance
+* 🔐 Secure authentication and personalized dashboards
+* ⚡ Fast and scalable backend processing for financial data
+
+### Tech Stack
+
+Next.js • Node.js • PostgreSQL • Prisma • Python • Gemini AI APIs • Tailwind CSS • Supabase
+
+🔗 Project Link: https://aiinvestor.namanbhatia.live/
+
+---
+
 ## 🎵 AI Music Generator
 
 A web platform that generates **original music tracks using AI models** based on user prompts, mood, and genre.
@@ -99,18 +119,6 @@ Next.js • Python • Node.js • ACE Step Music Generation Model • FastAPI
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NamanBhatia-NB&repo=AI_Investment_Manager&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NamanBhatia-NB&repo=Subscription_Tracker&theme=tokyonight" />
-
-</p>
-
----
-
 
 # 🌐 Connect With Me
 
@@ -121,10 +129,6 @@ Next.js • Python • Node.js • ACE Step Music Generation Model • FastAPI
 </p>
 
 ---
-
-<p align="center">
-⭐ If you like my work, consider giving my repositories a star!
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=NamanBhatia-NB&label=Profile%20Views&color=06B6D4&style=flat" />
